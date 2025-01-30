@@ -9,7 +9,6 @@
 
 🌱 I’m currently learning: reactjs 
 
-💼 Portfolio: https://toleeej.github.io/portfolio/
 
 📫 How to reach me: email: tolesaejara@gmail.com | LinkedIn: https://www.linkedin.com/in/tolesa-ejara-401025253/
 
