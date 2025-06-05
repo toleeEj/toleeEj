@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tolee!
 
-### 💻 Full Stack Developer | Vue.js | Node.js | MongoDB
+### 💻 Full Stack Developer | Vue.js | Django | ASP.Net | Node.js | MongoDB
 
 🔧 Technologies:
 - Frontend: Vue.js, HTML, CSS, JavaScript
