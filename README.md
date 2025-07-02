@@ -10,4 +10,4 @@
 🌱 I’m currently learning: reactjs 
 
 
-📫 How to reach me: email: tolesaejara@gmail.com | LinkedIn: https://www.linkedin.com/in/tolesa-ejara-401025253/
+📫 How to reach me: email: tolesaejara@gmail.com | LinkedIn: https://www.linkedin.com/in/tolesa-ijara/
