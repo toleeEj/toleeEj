@@ -11,5 +11,3 @@
 
 
 📫 How to reach me: email: tolesaejara@gmail.com | LinkedIn: https://www.linkedin.com/in/tolesa-ejara-401025253/
-
-⚡ Fun fact: I fix bugs for fun... and sometimes, I create them for extra fun!
