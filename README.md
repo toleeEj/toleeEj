@@ -1,13 +1,11 @@
 ## 👋 Hi, I'm Tolee!
 
-### 💻 Full Stack Developer | Vue.js | Django | ASP.Net | Node.js | MongoDB
+### 💻 Full Stack Developer
 
 🔧 Technologies:
-- Frontend: Vue.js, HTML, CSS, JavaScript
-- Backend: Node.js, Express
-- Database: MongoDB
-
-🌱 I’m currently learning: reactjs 
+- Frontend: react, Vue.js, tailwind css
+- Backend: django, Node.js, Express
+- Database: mysql, MongoDB
 
 
 📫 How to reach me: email: tolesaejara@gmail.com | LinkedIn: https://www.linkedin.com/in/tolesa-ijara/
